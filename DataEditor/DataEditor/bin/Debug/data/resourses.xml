@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ObjectXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Дерево</name>
+  <AtrName>
+    <string>price</string>
+    <string>description</string>
+  </AtrName>
+  <AtrHelp>
+    <string />
+    <string />
+  </AtrHelp>
+  <AtrValue>
+    <string>15</string>
+    <string>Дерево необработанное, добытое лесорубами.</string>
+  </AtrValue>
+</ObjectXml><?xml version="1.0"?>
+<ObjectXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Камень</name>
+  <AtrName>
+    <string>price</string>
+    <string>description</string>
+  </AtrName>
+  <AtrHelp>
+    <string />
+    <string />
+  </AtrHelp>
+  <AtrValue>
+    <string>3</string>
+    <string>Камень из шахты.</string>
+  </AtrValue>
+</ObjectXml>

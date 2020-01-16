@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<units>
+	<unit name ="Лесоруб">
+		<priceBuy help = "Цена аренды">50</priceBuy>
+		<timeMining help = "Время добычи">5</timeMining>
+	</unit>
+	<unit name ="Шахтер">
+		<priceBuy help = "Цена аренды">80</priceBuy>
+		<timeMining help = "Время добычи">8</timeMining>
+	</unit>
+	<unit name ="Повар">
+		<priceBuy help = "Цена аренды">100</priceBuy>
+		<timeMining help = "Время добычи">3</timeMining>
+	</unit>
+		<unit name ="Работяга с завода">
+		<priceBuy help = "Цена аренды">10</priceBuy>
+		<timeMining help = "Время добычи">1</timeMining>
+	</unit>
+</units>

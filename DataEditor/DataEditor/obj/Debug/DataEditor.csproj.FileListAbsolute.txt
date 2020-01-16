@@ -1,0 +1,39 @@
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\bin\Debug\DataEditor.exe.config
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\bin\Debug\DataEditor.exe
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\bin\Debug\DataEditor.pdb
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\obj\Debug\DataEditor.csprojAssemblyReference.cache
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\obj\Debug\App.g.cs
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\obj\Debug\DataEditor_MarkupCompile.cache
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\obj\Debug\DataEditor_MarkupCompile.lref
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\obj\Debug\DataEditor.g.resources
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\obj\Debug\DataEditor.Properties.Resources.resources
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\obj\Debug\DataEditor.csproj.GenerateResource.cache
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\obj\Debug\DataEditor.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\obj\Debug\DataEditor.exe
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\obj\Debug\DataEditor.pdb
+C:\Users\User\Documents\Unity 3d\ProjectFarm\Assets\Resoures\DataEditor.exe.config
+C:\Users\User\Documents\Unity 3d\ProjectFarm\Assets\Resoures\DataEditor.exe
+C:\Users\User\Documents\Unity 3d\ProjectFarm\Assets\Resoures\DataEditor.pdb
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\obj\Debug\Editor.g.cs
+C:\Users\User\Documents\Unity 3d\DataEditor\DataEditor\obj\Debug\Editor.baml
+G:\Programming\C#\ProjectFarm\Assets\Resoures\DataEditor.exe.config
+G:\Programming\C#\ProjectFarm\Assets\Resoures\DataEditor.exe
+G:\Programming\C#\ProjectFarm\Assets\Resoures\DataEditor.pdb
+G:\Programming\C#\DataEditor\DataEditor\obj\Debug\DataEditor.csprojAssemblyReference.cache
+G:\Programming\C#\DataEditor\DataEditor\obj\Debug\Editor.g.cs
+G:\Programming\C#\DataEditor\DataEditor\obj\Debug\MainWindow.g.cs
+G:\Programming\C#\DataEditor\DataEditor\obj\Debug\App.g.cs
+G:\Programming\C#\DataEditor\DataEditor\obj\Debug\DataEditor_MarkupCompile.cache
+G:\Programming\C#\DataEditor\DataEditor\obj\Debug\DataEditor_MarkupCompile.lref
+G:\Programming\C#\DataEditor\DataEditor\obj\Debug\Editor.baml
+G:\Programming\C#\DataEditor\DataEditor\obj\Debug\MainWindow.baml
+G:\Programming\C#\DataEditor\DataEditor\obj\Debug\DataEditor.g.resources
+G:\Programming\C#\DataEditor\DataEditor\obj\Debug\DataEditor.Properties.Resources.resources
+G:\Programming\C#\DataEditor\DataEditor\obj\Debug\DataEditor.csproj.GenerateResource.cache
+G:\Programming\C#\DataEditor\DataEditor\obj\Debug\DataEditor.exe
+G:\Programming\C#\DataEditor\DataEditor\obj\Debug\DataEditor.pdb
+G:\Programming\C#\DataEditor\DataEditor\bin\Debug\DataEditor.exe.config
+G:\Programming\C#\DataEditor\DataEditor\bin\Debug\DataEditor.exe
+G:\Programming\C#\DataEditor\DataEditor\bin\Debug\DataEditor.pdb
