@@ -1,0 +1,12 @@
+F:\Programming\C#\MTG_DeckBuilder\MTG_DeckBuilder\bin\Debug\MTG_DeckBuilder.exe.config
+F:\Programming\C#\MTG_DeckBuilder\MTG_DeckBuilder\bin\Debug\MTG_DeckBuilder.exe
+F:\Programming\C#\MTG_DeckBuilder\MTG_DeckBuilder\bin\Debug\MTG_DeckBuilder.pdb
+F:\Programming\C#\MTG_DeckBuilder\MTG_DeckBuilder\obj\Debug\MTG_DeckBuilder.csprojAssemblyReference.cache
+F:\Programming\C#\MTG_DeckBuilder\MTG_DeckBuilder\obj\Debug\MTG_DeckBuilder.Form1.resources
+F:\Programming\C#\MTG_DeckBuilder\MTG_DeckBuilder\obj\Debug\MTG_DeckBuilder.Properties.Resources.resources
+F:\Programming\C#\MTG_DeckBuilder\MTG_DeckBuilder\obj\Debug\MTG_DeckBuilder.csproj.GenerateResource.cache
+F:\Programming\C#\MTG_DeckBuilder\MTG_DeckBuilder\obj\Debug\MTG_DeckBuilder.csproj.CoreCompileInputs.cache
+F:\Programming\C#\MTG_DeckBuilder\MTG_DeckBuilder\obj\Debug\MTG_DeckBuilder.exe
+F:\Programming\C#\MTG_DeckBuilder\MTG_DeckBuilder\obj\Debug\MTG_DeckBuilder.pdb
+F:\Programming\C#\MTG_DeckBuilder\MTG_DeckBuilder\obj\Debug\MTG_DeckBuilder.CardAdder.resources
+F:\Programming\C#\MTG_DeckBuilder\MTG_DeckBuilder\obj\Debug\MTG_DeckBuilder.FormPresentCard.resources
